@@ -3,7 +3,7 @@
 
 import math
 
-print('QuadV1')
+print('QuadV1 ~ @ruingl')
 print('Solves quadratic equations!')
 print()
 
