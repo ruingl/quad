@@ -5,6 +5,7 @@ import math
 
 print('QuadV1')
 print('Solves quadratic equations!')
+print()
 
 k = int(input('Enter value of k: '))
 print()
